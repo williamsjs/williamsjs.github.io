@@ -90,18 +90,19 @@ summary {
 }
 img {
   width: 200px;
-  float: right;
 }
 #darth {
   float: none;
   width: 300px;
   margin: 2px;
+  padding: 7px;
 }
 
 #grid-iron {
   float: none;
   width: 300px;
   margin: 2px;
+  padding: 7px;
 }
 /*
  * Corrects inline-block display not defined in IE6/7/8/9 & FF3
