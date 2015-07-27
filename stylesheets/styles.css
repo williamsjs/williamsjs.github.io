@@ -104,6 +104,13 @@ img {
   margin: 2px;
   padding: 7px;
 }
+
+#logo {
+  float: none;
+  width: 300px;
+  margin: 2px;
+  padding: 7px;
+}
 /*
  * Corrects inline-block display not defined in IE6/7/8/9 & FF3
  */
