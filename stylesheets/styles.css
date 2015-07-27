@@ -88,7 +88,21 @@ section,
 summary {
   display: block;
 }
+img {
+  width: 200px;
+  float: right;
+}
+#darth {
+  float: none;
+  width: 300px;
+  margin: 2px;
+}
 
+#grid-iron {
+  float: none;
+  width: 300px;
+  margin: 2px;
+}
 /*
  * Corrects inline-block display not defined in IE6/7/8/9 & FF3
  */
@@ -133,6 +147,10 @@ html {
   /* 2 */
 }
 
+#my-work h3{
+  text-align: center;
+  text-decoration: underline;
+}
 /*
  * Addresses font-family inconsistency between 'textarea' and other form elements.
  */
